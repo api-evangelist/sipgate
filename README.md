@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-sipgate is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.sipgate.io/
+Sipgate provides cloud telephony services, offering voice, SMS, fax, and real‑time communication APIs for developers to integrate calling, messaging, and fax capabilities into software projects. Their platform includes a REST API, Push API, webhooks, and extensive documentation, enabling businesses to build communication features such as call handling, SMS notifications, and fax transmission programmatically.
+
+**Areas:** Company · Telephony · Cloud · API · Communications
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.sipgate.io/)
+- [Documentation](https://www.sipgate.io/restapi)
+- [Getting started](https://www.sipgate.io/fuer-entwickler)
+- [API reference](https://www.sipgate.io/restapi)
+- [Pricing](https://www.sipgate.io/preise)
+- [Support](https://www.sipgate.io/support)
+- [Blog](https://www.sipgate.io/blog)
+- [Privacy policy](https://www.sipgate.io/datenschutz)
+- [GitHub](https://github.com/sipgate)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/sipgate/](https://apis.io/providers/sipgate/).
